@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h3>Hi there 👋, My name is Tigo!</h3>
+<h3> 🤝🏻 Connect with Me </h3>
+<h5>WIP</h5>
 <!--
 **tigomiddelkoop/tigomiddelkoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
